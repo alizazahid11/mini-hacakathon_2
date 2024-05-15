@@ -16,6 +16,9 @@ This project is a mini hackathon submission created during the SMIT hackathon. I
 - CSS
 - JavaScript
 - Firebase (Authentication, Firestore)
+  (https://app.netlify.com/sites/personal-blogs05/overview)
+##Live Demo
+
 ## Usage
 1: Open index.html in a web browser.   
 2: Sign up for a new account or log in with an existing one.  
