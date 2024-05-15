@@ -18,7 +18,7 @@ This project is a mini hackathon submission created during the SMIT hackathon. I
 - Firebase (Authentication, Firestore)
 
 
-##Live Demo
+## Live Demo
 (https://app.netlify.com/sites/personal-blogs05/overview)
 
 ## Usage
