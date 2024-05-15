@@ -19,7 +19,7 @@ This project is a mini hackathon submission created during the SMIT hackathon. I
 
 
 ## Live Demo
-(https://app.netlify.com/sites/personal-blogs05/overview)
+https://app.netlify.com/sites/personal-blogs05/overview
 
 ## Usage
 1: Open index.html in a web browser.   
